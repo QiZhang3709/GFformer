@@ -12,6 +12,5 @@ If you need to apply GFformer to other datasets, simply modify the dataset secti
 
 ## Dataset
 One can download the Amazon2M dataset from the google drive link below:
-https://drive.google.com/drive/folders/1A5m7_wFT6rX7dxEHlKV_uqce5pPVRwnC?usp=sharing.
-
+https://drive.google.com/drive/folders/1A5m7_wFT6rX7dxEHlKV_uqce5pPVRwnC?usp=sharing. 
 Please place the downloaded dataset into the data folder.
