@@ -14,3 +14,15 @@ If you need to apply GFformer to other datasets, simply modify the dataset secti
 One can download the Amazon2M dataset from the google drive link below:
 https://drive.google.com/drive/folders/1A5m7_wFT6rX7dxEHlKV_uqce5pPVRwnC?usp=sharing. 
 Please place the downloaded dataset into the data folder.
+
+## Citing
+
+Please cite our work if you find it is useful for you:
+```
+@article{
+  title = {GFformer: A Graph Transformer for Extracting All Frequency Information from Large-Scale Graphs},
+  author = {Zhang, Qi and Si, Mengmeng and Sun, Yanfeng and Wang, Shaofan and Gao, Junbin and Yin, Baocai},
+  year = {2025},
+  journal = {ACM Transactions on Knowledge Discovery from Data}
+}
+```
