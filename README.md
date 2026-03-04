@@ -22,7 +22,11 @@ Please cite our work if you find it is useful for you:
 @article{
   title = {GFformer: A Graph Transformer for Extracting All Frequency Information from Large-Scale Graphs},
   author = {Zhang, Qi and Si, Mengmeng and Sun, Yanfeng and Wang, Shaofan and Gao, Junbin and Yin, Baocai},
-  year = {2025},
-  journal = {ACM Transactions on Knowledge Discovery from Data}
+  year = 2025,
+  journal = {ACM Transactions on Knowledge Discovery from Data},
+  volume = {19},
+  number = {8},
+  pages = {1--20}
 }
+
 ```
